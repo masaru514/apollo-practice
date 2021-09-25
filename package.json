@@ -1,0 +1,24 @@
+{
+  "name": "apollo-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masaru514/apollo-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masaru514/apollo-practice/issues"
+  },
+  "homepage": "https://github.com/masaru514/apollo-practice#readme",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.6.0"
+  }
+}
